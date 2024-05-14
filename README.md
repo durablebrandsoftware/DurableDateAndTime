@@ -15,7 +15,7 @@ https://github.com/durablebrandsoftware/DurableDateAndTimeDemo
 
  See the `DemoView.swift` file in that project for details.
 
-Further details and a more complete description can be found here:
+Further details and a more complete description can be found here:<br>
 https://www.durablebrand.software/random-access/date-and-time-selector
 
 ## Installation
